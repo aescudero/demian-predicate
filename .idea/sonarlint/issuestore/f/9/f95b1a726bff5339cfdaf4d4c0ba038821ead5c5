@@ -1,0 +1,28 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú£‹Ûÿÿÿÿÿ8¤®¿§1
+L	java:S106"+Replace this use of System.out by a logger.(ÃÑçªøÿÿÿÿ8¦®¿§1
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8§®¿§1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ËãÈ8¶ÎíÀ§1
+n
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ŞÁ¬78§®¿§1
+L	java:S106"+Replace this use of System.out by a logger.(ÃÑçªøÿÿÿÿ8§®¿§1
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8¨®¿§1
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïéÑ8§®¿§1
+n
+java:S4276!"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ŞÁ¬78¨®¿§1
+G	java:S106""+Replace this use of System.out by a logger.(ƒœØæ8©®¿§1
+L	java:S106%"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ª®¿§1
+j	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾´£´8¨®¿§1
+n
+java:S4276,"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ŞÁ¬78¨®¿§1
+o
+java:S4276-"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¸ïªş8ÀùË¿§1
+L	java:S106."+Replace this use of System.out by a logger.(Š›Şªùÿÿÿÿ8ÀùË¿§1
+L	java:S1061"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ÁùË¿§1
+o	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ†áïøÿÿÿÿ8ÿè€À§1
+n
+java:S42768"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ŞÁ¬78€é€À§1
+t
+java:S42769"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'( Äåëùÿÿÿÿ8Ï¢íÀ§1
+L	java:S106:"+Replace this use of System.out by a logger.(Š›Şªùÿÿÿÿ8Ğ¢íÀ§1
+L	java:S106="+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8Ğ¢íÀ§1
